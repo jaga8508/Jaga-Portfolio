@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Jaga-Portfolio/static/css/main.6b20f657.css",
+    "main.js": "/Jaga-Portfolio/static/js/main.1ef9caa7.js",
+    "static/media/Photoshop-Logo.png": "/Jaga-Portfolio/static/media/Photoshop-Logo.65ef37e07e155836f1ed.png",
+    "static/media/HeroImage.png": "/Jaga-Portfolio/static/media/HeroImage.cf693f5ebac1b23d5099.png",
+    "static/media/npr-arts-logo.png": "/Jaga-Portfolio/static/media/npr-arts-logo.1151748db6536c6d99de.png",
+    "static/media/Figma-Logo.png": "/Jaga-Portfolio/static/media/Figma-Logo.af86c95c78c875aa84e9.png",
+    "static/media/SBL-Logo.svg": "/Jaga-Portfolio/static/media/SBL-Logo.9342ed4c80b73b5c5dd73a74d8987896.svg",
+    "static/media/Adobe-Logo.png": "/Jaga-Portfolio/static/media/Adobe-Logo.9cd8aab4ee6ed3128d05.png",
+    "static/media/WDT-LOGO.png": "/Jaga-Portfolio/static/media/WDT-LOGO.19653c82115cb26867b5.png",
+    "static/media/Velammal-Logo.png": "/Jaga-Portfolio/static/media/Velammal-Logo.1cc1b1c0ed10afde3715.png",
+    "index.html": "/Jaga-Portfolio/index.html",
+    "main.6b20f657.css.map": "/Jaga-Portfolio/static/css/main.6b20f657.css.map",
+    "main.1ef9caa7.js.map": "/Jaga-Portfolio/static/js/main.1ef9caa7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b20f657.css",
+    "static/js/main.1ef9caa7.js"
+  ]
+}
