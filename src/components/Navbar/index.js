@@ -29,7 +29,7 @@ const Navbar = () => {
           <NavLink href='#education'>Education</NavLink>
         </NavItems>
         <ButtonContainer>
-          <ResumeButton href={Bio.resume} target="_blank">Check Resume</ResumeButton>
+          <ResumeButton style={{padding: '10px 16px',background: `${theme.primary}`, color: 'white',width: 'max-content'}} href={Bio.resume} target="_blank">Check Resume</ResumeButton>
         </ButtonContainer>
         {
           isOpen &&
