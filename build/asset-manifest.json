@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Jaga-Portfolio/static/css/main.6b20f657.css",
-    "main.js": "/Jaga-Portfolio/static/js/main.1ef9caa7.js",
+    "main.js": "/Jaga-Portfolio/static/js/main.a7739237.js",
     "static/media/Photoshop-Logo.png": "/Jaga-Portfolio/static/media/Photoshop-Logo.65ef37e07e155836f1ed.png",
     "static/media/HeroImage.png": "/Jaga-Portfolio/static/media/HeroImage.cf693f5ebac1b23d5099.png",
     "static/media/npr-arts-logo.png": "/Jaga-Portfolio/static/media/npr-arts-logo.1151748db6536c6d99de.png",
@@ -12,10 +12,10 @@
     "static/media/Velammal-Logo.png": "/Jaga-Portfolio/static/media/Velammal-Logo.1cc1b1c0ed10afde3715.png",
     "index.html": "/Jaga-Portfolio/index.html",
     "main.6b20f657.css.map": "/Jaga-Portfolio/static/css/main.6b20f657.css.map",
-    "main.1ef9caa7.js.map": "/Jaga-Portfolio/static/js/main.1ef9caa7.js.map"
+    "main.a7739237.js.map": "/Jaga-Portfolio/static/js/main.a7739237.js.map"
   },
   "entrypoints": [
     "static/css/main.6b20f657.css",
-    "static/js/main.1ef9caa7.js"
+    "static/js/main.a7739237.js"
   ]
 }
